@@ -1,5 +1,5 @@
 {
-    "name": "JAYARATHNE-BOT",
+    "name": "Jayarathne",
     "description": "For Jayarthne Team",
     "logo": "https://www.linkpicture.com/q/Jayarathne.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/Sithujaya01",
     "stack": "container",
     "env": {
-        "JAYARATHNE SESSION": {
+        "JAYARATHNE_SESSION": {
             "description": "Any repl.it qr code.",
             "required": true
         },
