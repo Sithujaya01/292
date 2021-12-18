@@ -16,7 +16,6 @@
         "SUDO": {
             "description": "Sudo",
             "required": false
-            "value": "94778115292"
         },
         "LANGUAGE": {
             "description": "Bot language. English => en",
@@ -61,7 +60,9 @@
         "HEROKU_API_KEY": {
             "description": "Heroku API Key. (You can find it in account settings)",
             "required": true
-            "value": "327e92e7-5037-4897-8532-49d40eae483f"
+            
+            
+      
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 94xxxx && 94xxxx-1xxx or 94xxxxx,94xxxx...",
@@ -81,7 +82,6 @@
         "REMOVE_BG_API_KEY": {
             "description": "visit https://remove.bg for api key",
             "required": true
-            "value": "W8FSnknJgHrD4paH3d2k59rL"
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
@@ -91,6 +91,7 @@
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false
+            "value": "_See you later!_"
         },
         "SONGD": {
             "description": "Customizable song uploading message!",
