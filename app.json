@@ -91,7 +91,7 @@
         "SONGD": {
             "description": "Customizable song uploading message!",
             "required": false,
-            "value": "_Uploading song.._"
+            "value": "_Uᴅᴏᴡɴʟᴏᴀᴅɪɴɢ_"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
