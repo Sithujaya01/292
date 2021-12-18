@@ -1,14 +1,14 @@
 {
     "name": "JAYARATHNE-BOT",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "description": "For Jayarthne Team",
+    "logo": "https://www.linkpicture.com/q/Jayarathne.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Sithujaya01/JAYARATHNE-BOT",
     "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "success_url": "https://t.me/Sithujaya01",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
+   "RAGANORK_CODE": {
             "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
             "required": true
         },
