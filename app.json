@@ -8,7 +8,7 @@
     "success_url": "https://t.me/Sithujaya01",
     "stack": "container",
     "env": {
-   "RAGANORK_CODE": {
+   "JAYARATHNE_SESSION": {
             "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
             "required": true
         },
