@@ -8,8 +8,8 @@
     "success_url": "https://bit.ly/Raganork",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
-            "description": " code). Type here yours Raganork code.",
+        "JAYARATHNE SESSION": {
+            "description": "Any repl.it qr code.",
             "required": true
         },
         "SUDO": {
@@ -17,7 +17,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. English => en, Malayalam => ml, Hindi => HI,",
+            "description": "Bot language. English => en",
             "required": true,
             "value": "en"
         },
@@ -29,12 +29,12 @@
         "ALL_IMG": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://www.linkpicture.com/q/Jayarathne.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },
         "ALL_CAPTION": {
             "description": "Give your caption here. Example: Made by Raganork.",
