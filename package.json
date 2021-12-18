@@ -1,14 +1,14 @@
 {
-  "name": "Raganork",
+  "name": "JAYARATHNE-BOT",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "JAYARATHNE USERBOT FOR JAYARATHNE TEAM",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sithujaya01/JAYARATHNE-BOT"
+    "url": "https://github.com/Sithujaya01/JAYARATHNE-BOT.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,7 +18,7 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Sithujaya01/JAYARATHNE-BOT/issues"
