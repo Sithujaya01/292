@@ -2,13 +2,13 @@
   "name": "JAYARATHNE-BOT",
   "version": "3.0.0",
   "description": "JAYARATHNE USERBOT FOR JAYARATHNE TEAM",
-  "main": "./Raganork/bot.js",
+  "main": "./JAYARATHNE-BOT/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sithujaya01/JAYARATHNE-BOT.git"
+    "url": "git+https://github.com/Sithujaya01/JAYARATHNE-BOT"
   },
   "keywords": [
     "whatsapp",
