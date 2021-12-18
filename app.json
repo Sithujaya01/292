@@ -1,19 +1,20 @@
 {
-    "name": "Raganork",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "name": "JAYARATHNE-BOT",
+    "description": "For Jayarthne Team",
+    "logo": "https://www.linkpicture.com/q/Jayarathne.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
+    "repository": "https://github.com/Sithujaya01/JAYARATHNE-BOT",
     "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "success_url": "https://t.me/Sithujaya01",
     "stack": "container",
     "env": {
-        "JAYARATHNE SESSION": {
-            "description": "Any repl.it qr code.",
+        "Jayarathne_session": {
+            "description": "Any repl.it qr code",
             "required": true
+            
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it!",
+            "description": "Sudo",
             "required": false
         },
         "LANGUAGE": {
@@ -27,19 +28,19 @@
             "value": "true"
         },
         "ALL_IMG": {
-            "description": "Give an image link for your bot!",
+            "description": "Give an image link",
             "required": true,
             "value": "https://www.linkpicture.com/q/Jayarathne.jpg"
         },
         "DIALOGUE": {
-            "description": "Give an image link for your bot!",
+            "description": "Write Some Words",
             "required": true,
             "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },
         "ALL_CAPTION": {
-            "description": "Give your caption here. Example: Made by Raganork.",
+            "description": "Give your caption here.",
             "required": true,
-            "value": "*YOUR CAPTION HERE*"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },
         "VERIFIED": {
             "description": "Jid given above the verified tick. Use 0 for official WhatsApp",
@@ -47,7 +48,7 @@
             "value": "0@s.whatsapp.net"
         },
         "HANDLERS": {
-            "description": "Prefix for commands. (.assist, !assist ,assist)",
+            "description": "Prefix for commands. (.menu, !menu ,menu)",
             "required": true,
             "value": "^[,@#!.]"
         },
@@ -61,37 +62,38 @@
             "required": true
         },
         "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 91xxxx && 91xxxx-1xxx or 91xxxxx,91xxxx...",
+            "description": "Choose in which chat the bot won't work there. Ex: 94xxxx && 94xxxx-1xxx or 94xxxxx,94xxxx...",
             "required": false,
-            "value": "919074309534"
+            "value": "94777678678"
         },
         "WORK_TYPE": {
-            "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
             "required": true
+            "value": "jayarathnebot"
         },
         "REMOVE_BG_API_KEY": {
             "description": "visit https://remove.bg for api key",
-            "required": false
+            "required": true
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
-            "required": false,
-            "value": "BOT IS CURRENTLY RUNNING WITH NO ERRORS!"
+            "required": true,
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄal"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
-            "required": false,
+            "required": false
             "value": "_See you later!_"
         },
         "SONGD": {
             "description": "Customizable song uploading message!",
             "required": false,
-            "value": "_Uploading song.._"
+            "value": "ᴜᴘʟᴏᴀᴅɪɴɢ"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -101,17 +103,17 @@
         "SONGD": {
             "description": "Customizable song downloading message!",
             "required": true,
-            "value": "_Searching song.._"
+            "value": "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ"
         },
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/94778115292"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
             "required": true,
-            "value": "Type antything here"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
@@ -121,32 +123,32 @@
         "IG": {
             "description": "Your instagram link(optional)!",
             "required": false,
-            "value": "https://instagram.com/username"
+            "value": "https://instagram.com/Sithujaya01"
         },
         "OWNER_NAME": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 𝗵𝗲𝗿𝗲"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "*Hear me friends!*"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
         },   
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false,    
-            "value": "916282344739@s.whatsapp.net"
+            "value": "94778115292@s.whatsapp.net"
         },
         "ANTI_FAKE": {
-            "description": "Fake number auto remover (Except Indian numbers)! Give true for activating!",
+            "description": "Fake number auto remover (Except Srilankan numbers)! Give true for activating!",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "BOT_NAME": {
-            "description": "Your bot's name. This is very important!",
+            "description": "Your bot's name.",
             "required": false,
-            "value": "𝓑𝓞𝓣 𝓝𝓐𝓜𝓔 𝓗𝓔𝓡𝓔"
+            "value": "ᴊᴀʏᴀʀᴀᴛʜɴᴇ ᴛᴇᴄʜɴɪᴄᴀʟ"
              
         }
     },
