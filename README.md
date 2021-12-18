@@ -1,2 +1,0 @@
-# JAYARATHNE-BOT
-Jayayarathne Team
