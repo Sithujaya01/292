@@ -1,4 +1,4 @@
-FROM souravkl11/raganork:test
+FROM Sithujaya01/JAYARATHNE-BOT:test
 
 RUN git clone https://github.com/Sithujaya01/JAYARATHNE-BOT/ /skl/Jayarathne
 WORKDIR /skl/raganork 
