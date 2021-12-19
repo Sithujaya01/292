@@ -1,8 +1,8 @@
-FROM Sithujaya01/JAYARATHNE-BOT:test
+FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Sithujaya01/JAYARATHNE-BOT/ /skl/Jayarathne
-WORKDIR /skl/Jayarathne
-ENV TZ = Asia/Kolkata
+RUN git clone https://github.com/souravkl11/Raganork /skl/Raganork
+WORKDIR /skl/Raganork
+ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
