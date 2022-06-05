@@ -14,37 +14,31 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 ------
 # Deploy Bot
 
-## `STEPS`
-
-- Fork This Repo and Delete 292.json
-- Scan Qr code from repl.it
-- Upload session file here
-- Press Heroku Buttoun.
-- Deploy Bot.
-- Done.
-
 # `FORK THIS REPO`
   
   <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg" width="300" height="120" ></a>
 <br>
+
 # `SCAN QR CODE REPL.IT`
  
 <a href="https://replit.com/@MaithripalaSiri"><img title="Mission 292" src="https://i.postimg.cc/6pgwCjfk/Whats-App-Image-2022-06-05-at-8-36-47-AM.jpg" width="300" height="120" ></a>
 
+> You Will Recive 292.json FILE to your own inbox.
+> Upload it here.
+
 # `Deploy In Heroku`
-```COPY THIS URL AND CHANGE YOR GITHUB ID WITH MINE❗
 
+> You need Github Account for this step.
 
-```
+> Frist , Click Fork Now Buttoun Above
 
-<a href="https://heroku.com/deploy?template=https://github.com/Sithujaya01/292"><img title="Mission 292" src="https://i.postimg.cc/Y2ZJnGWF/Whats-App-Image-2022-06-05-at-8-35-24-AM.jpg" width="400" height="240"></a>
+> Copy This https://heroku.com/deploy?template=https://github.com/ID/292
 
+> Change 'ID' with your Github USer NAme.
 
+> Deploy.
+
+### ⚠️ UPLOAD 292.json FILE HERE THAT YOU RECIVED , before Deploying
   
-
-
-<!---->
-  <br><br><br>
-# `Change Session In Github`
-
-  ### ⚠️ Session Change! 
+  
+# `POWERED BY JAYARATHNE TECHNICAL`
