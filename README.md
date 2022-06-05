@@ -12,7 +12,7 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 </p>
 
 ------
-# Deploy Bot
+# Deploy Bot [DEPLOY AT YOUR OWN FUN]
 
 # `FORK THIS REPO`
   
