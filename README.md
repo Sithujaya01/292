@@ -32,13 +32,13 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 
 > Frist , Click Fork Now Buttoun Above
 
-> Copy This https://heroku.com/deploy?template=https://github.com/ID/292
+> Then Copy This Url https://heroku.com/deploy?template=https://github.com/ID/292
 
-> Change 'ID' with your Github USer NAme.
+> Now Change 'ID' with your Github USer NAme.
 
 > Deploy.
 
 ### ⚠️ UPLOAD 292.json FILE HERE THAT YOU RECIVED , before Deploying
   
   
-# `POWERED BY JAYARATHNE TECHNICAL`
+# POWERED BY JAYARATHNE TECHNICAL
