@@ -24,14 +24,26 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 - Done.
 
 # `FORK THIS REPO`
- 
- `Use This Button To Fork Now`
   
   <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg" width="300" height="120" ></a>
 <br>
 # `SCAN QR CODE REPL.IT`
  
 <a href="https://replit.com/@MaithripalaSiri"><img title="Mission 292" src="https://i.postimg.cc/6pgwCjfk/Whats-App-Image-2022-06-05-at-8-36-47-AM.jpg" width="300" height="120" ></a>
+
+# `Deploy In Heroku`
+```COPY THIS URL AND CHANGE YOR GITHUB ID WITH MINE❗
+
+
+```
+
+<a href="https://heroku.com/deploy?template=https://github.com/Sithujaya01/292"><img title="Mission 292" src="https://i.postimg.cc/Y2ZJnGWF/Whats-App-Image-2022-06-05-at-8-35-24-AM.jpg" width="400" height="240"></a>
+
+
+  
+
+
+<!---->
   <br><br><br>
 # `Change Session In Github`
 
