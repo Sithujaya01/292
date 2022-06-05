@@ -14,7 +14,7 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 ------
 # Deploy Bot
 
-## `SETTINGS`
+## `STEPS`
 
 - Fork This Repo and Delete 292.json
 - Scan Qr code from repl.it
@@ -23,3 +23,16 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 - Deploy Bot.
 - Done.
 
+# `❗❗FORK THIS BEFORE PROCEEDING`
+ 
+ `Use This Button To Fork Now`
+  
+  <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg?raw=true" width="100" height="30" ></a>
+<br>
+# `Scan QR Code For Session`
+ 
+<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+  <br><br><br>
+# `Change Session In Github`
+
+  ### ⚠️ Session Change! 
