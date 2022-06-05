@@ -1,4 +1,4 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
+<h1 align="center">MISSION 292<br></h1>
 <p align="center">
   <img src="https://telegra.ph/file/cc7629d2fdfcedb74598d.jpg" width="540" height="300" />
 </p>
