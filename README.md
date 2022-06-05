@@ -27,7 +27,7 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg?raw=true" width="100" height="30" ></a>
+  <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg" width="100" height="30" ></a>
 <br>
 # `Scan QR Code For Session`
  
