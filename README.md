@@ -42,7 +42,4 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
   
   
   
-  
-  
-  
-# ````POWERED BY JAYARATHNE TECHNICAL```
+*JAYARATHNE TECHNICAL*
