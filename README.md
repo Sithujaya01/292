@@ -23,15 +23,15 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 - Deploy Bot.
 - Done.
 
-# `❗❗FORK THIS BEFORE PROCEEDING`
+# `FORK THIS REPO`
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg" width="200" height="60" ></a>
+  <a href="https://github.com/Sithujaya01/292/fork"><img title="Mission 292" src="https://i.postimg.cc/7ZMhPNNS/Whats-App-Image-2022-06-05-at-8-34-08-AM.jpg" width="300" height="120" ></a>
 <br>
-# `Scan QR Code For Session`
+# `SCAN QR CODE REPL.IT`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://replit.com/@MaithripalaSiri"><img title="Mission 292" src="https://i.postimg.cc/6pgwCjfk/Whats-App-Image-2022-06-05-at-8-36-47-AM.jpg" width="300" height="120" ></a>
   <br><br><br>
 # `Change Session In Github`
 
