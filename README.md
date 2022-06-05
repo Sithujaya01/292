@@ -41,4 +41,8 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 ### ⚠️ UPLOAD 292.json FILE HERE THAT YOU RECIVED , before Deploying
   
   
-# POWERED BY JAYARATHNE TECHNICAL
+  
+  
+  
+  
+# ````POWERED BY JAYARATHNE TECHNICAL```
