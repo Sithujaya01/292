@@ -8,7 +8,7 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 </p>
 
 <p align="center">
-<a href="https://wa.me/94777611095"><img title="Size" src="https://i.postimg.cc/B6PmHtbc/wa2.png" width="100" height="50"></a>
+<a href="https://wa.me/94777611095"><img title="Size" src="https://i.postimg.cc/B6PmHtbc/wa2.png" width="200" height="50"></a>
 </p>
 
 ------
